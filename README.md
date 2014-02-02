@@ -1,4 +1,4 @@
 byoh
 ====
 
-Responsive theme for build your house
+Responsive theme for <a href="http://www.byoh.com>building your own house</a>
